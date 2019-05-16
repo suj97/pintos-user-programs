@@ -2,7 +2,8 @@
 Implementing user programs in PintOS
 
 ## Prerequisites 
-QEMU emulator
+QEMU emulator.
+- Can be installed on Ubuntu by simply running `sudo apt-get install qemu`
 
 ## Installation
 
