@@ -14,3 +14,5 @@ QEMU emulator.
 5. `cd ../threads`
 6. `make`
 7. `./pintos run alarm-multiple`
+
+The following will open a Qemu terminal window and run the alarm-multiple test. You can just close the Qemu terminal when the test execution completes.
